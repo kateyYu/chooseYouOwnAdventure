@@ -6,8 +6,7 @@ git clone https://github.com/kateyYu/chooseYouOwnAdventure.git .
 ## install dependency
 ```
  npm install
- npm install readline-sync
- ```
+```
 ## run
 ```
  npm start (server)
