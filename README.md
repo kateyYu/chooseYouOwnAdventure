@@ -11,7 +11,6 @@ git clone https://github.com/kateyYu/chooseYouOwnAdventure.git .
 ## run
 ```
  npm start (server)
- npm index.js
  node index.js
  http://localhost:3000/
 ```
